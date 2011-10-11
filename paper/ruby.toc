@@ -1,0 +1,29 @@
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Einleitung}{4}
+\contentsline {chapter}{\numberline {2}Entstehung und Entwicklung}{5}
+\contentsline {section}{\numberline {2.1}Geschichte und Einfl\IeC {\"u}sse}{5}
+\contentsline {section}{\numberline {2.2}Entwicklung}{5}
+\contentsline {chapter}{\numberline {3}Syntax}{7}
+\contentsline {section}{\numberline {3.1}Kommentare}{7}
+\contentsline {section}{\numberline {3.2}Basisdatentypen}{7}
+\contentsline {section}{\numberline {3.3}Arrays und Hashes}{9}
+\contentsline {section}{\numberline {3.4}Operatoren}{10}
+\contentsline {subsection}{\numberline {3.4.1}Zuweisungen}{11}
+\contentsline {subsection}{\numberline {3.4.2}\texttt {==} vs. \texttt {equal?}}{11}
+\contentsline {subsection}{\numberline {3.4.3}Range}{12}
+\contentsline {section}{\numberline {3.5}Regul\IeC {\"a}re Ausdr\IeC {\"u}cke}{12}
+\contentsline {section}{\numberline {3.6}Methoden und Variablen}{13}
+\contentsline {section}{\numberline {3.7}Klammern}{15}
+\contentsline {section}{\numberline {3.8}Kontrollstrukturen}{15}
+\contentsline {subsection}{\numberline {3.8.1}Bedingte Anweisungen und Verzweigung}{15}
+\contentsline {subsection}{\numberline {3.8.2}Schleifen}{16}
+\contentsline {subsection}{\numberline {3.8.3}Bl\IeC {\"o}cke und Iteratoren}{17}
+\contentsline {section}{\numberline {3.9}Klassen}{18}
+\contentsline {chapter}{\numberline {4}Konzepte}{20}
+\contentsline {section}{\numberline {4.1}Module}{20}
+\contentsline {subsection}{\numberline {4.1.1}Module als Namespace}{20}
+\contentsline {subsection}{\numberline {4.1.2}Module als Mixins}{21}
+\contentsline {section}{\numberline {4.2}Vererbung}{21}
+\contentsline {section}{\numberline {4.3}Duck-Typing}{22}
+\contentsline {section}{\numberline {4.4}Metaprogramming}{24}
+\contentsline {chapter}{\numberline {5}Fazit}{25}

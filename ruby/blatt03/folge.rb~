@@ -1,0 +1,15 @@
+#folge.rb
+
+print "Please enter a positive number: "
+a = Integer("#{gets}")
+
+while a <= 0
+  print "Your input was not positive. Please enter again: "
+  a = Integer("#{gets}")
+end
+
+epsilon = 0.00001
+
+
+
+ 

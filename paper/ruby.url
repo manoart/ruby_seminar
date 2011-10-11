@@ -1,0 +1,5 @@
+%%% jurabib url repository
+\expandafter\urldef\csname jburl@ruby_doc\endcsname\url{http://ruby-doc.org/}
+\expandafter\urldef\csname jburl@ruby_org\endcsname\url{http://www.ruby-lang.org/en/about/}
+\expandafter\urldef\csname jburl@tiobe\endcsname\url{http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html}
+\expandafter\urldef\csname jburl@tiobe_def\endcsname\url{http://www.tiobe.com/index.php/content/paperinfo/tpci/tpci_definition.htm}

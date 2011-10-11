@@ -1,0 +1,11 @@
+#cellularAutomat.rb
+
+world = Array.new
+for i in 0..80 do
+  if Math.random < 0.5
+    world[i] = "_"
+  else
+    world[i] = "#"
+  end
+end
+ puts world

@@ -1,0 +1,34 @@
+\begin{Verbatim}[commandchars=\\\{\}, ]
+\PY{k}{class} \PY{n+nc}{Schaf}
+  \PY{k}{def} \PY{n+nf}{sag\PYZus{}was}
+    \PY{l+s+s2}{"Maeh Maeh..."}
+  \PY{k}{end}
+  \PY{k}{def} \PY{n+nf}{wer\PYZus{}bist\PYZus{}du}
+    \PY{l+s+s2}{"Ein Schaf"}
+  \PY{k}{end}
+\PY{k}{end}
+
+\PY{k}{class} \PY{n+nc}{WolfImSchafspelz}
+  \PY{k}{def} \PY{n+nf}{sag\PYZus{}was}
+    \PY{l+s+s2}{"Maeh Maeh grrr..."}
+  \PY{k}{end}
+  \PY{k}{def} \PY{n+nf}{wer\PYZus{}bist\PYZus{}du}
+    \PY{l+s+s2}{"Ein Schaf"}
+  \PY{k}{end}
+\PY{k}{end}
+
+\PY{k}{def} \PY{n+nf}{schafstest}\PY{p}{(} \PY{n}{schaf} \PY{p}{)}                 \PY{c+c1}{\PYZsh{} Parameter kann ein beliebiges}
+  \PY{n+nb}{puts} \PY{l+s+s2}{"--"}                             \PY{c+c1}{\PYZsh{} Objekt sein, hauptsache}
+  \PY{n+nb}{puts} \PY{n}{schaf}\PY{o}{.}\PY{n}{sag\PYZus{}was}                    \PY{c+c1}{\PYZsh{} die Methode sag\PYZus{}was und}
+  \PY{n+nb}{puts} \PY{n}{schaf}\PY{o}{.}\PY{n}{wer\PYZus{}bist\PYZus{}du}                \PY{c+c1}{\PYZsh{} wer\PYZus{}bist\PYZus{}du existieren}
+  \PY{k}{if} \PY{n}{schaf}\PY{o}{.}\PY{n}{wer\PYZus{}bist\PYZus{}du} \PY{o}{=\PYZti{}} \PY{l+s+sr}{/Ein Schaf/}
+    \PY{n+nb}{puts} \PY{l+s+s2}{"Das ist wirklich ein Schaf"}
+  \PY{k}{end}
+\PY{k}{end}
+
+\PY{n}{schaf1} \PY{o}{=} \PY{n+no}{Schaf}\PY{o}{.}\PY{n}{new}
+\PY{n}{schaf2} \PY{o}{=} \PY{n+no}{WolfImSchafspelz}\PY{o}{.}\PY{n}{new}
+
+\PY{n}{schafstest}\PY{p}{(} \PY{n}{schaf1} \PY{p}{)}                    \PY{c+c1}{\PYZsh{} läuft durch}
+\PY{n}{schafstest}\PY{p}{(} \PY{n}{schaf2} \PY{p}{)}                    \PY{c+c1}{\PYZsh{} ebenfalls kein Fehler}
+\end{Verbatim}

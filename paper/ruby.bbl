@@ -1,0 +1,101 @@
+%
+% This bibliography was produced by using jurabib.bst
+%
+\begin{thebibliography}{}
+
+\bibitem[{empty}%
+         {}%
+         {{0}{}{booklet}{}{}{}{}{}%
+          {}}%
+         {{Ruby-Dokumentation}%
+          {}{}{4}{}{}{}{}{}}%
+        ]{ruby_doc}
+ \jburldef {ruby_doc}{http://ruby-doc.org/}%
+ \jbbibargs {} {empty} {} {\bibtfont {Ruby-Dokumentation}\bibatsep\  \jburluse
+  {ruby_doc}\bibbudcsep {}\urldatecomment 15.07.2011} {\bibhowcited} \jbdoitem
+  {} {} {} \bibAnnoteFile {ruby_doc}
+
+\bibitem[{empty}%
+         {}%
+         {{0}{}{booklet}{}{}{}{}{}%
+          {}}%
+         {{Ruby-Homepage}%
+          {}{}{4}{}{}{}{}{}}%
+        ]{ruby_org}
+ \jburldef {ruby_org}{http://www.ruby-lang.org/en/about/}%
+ \jbbibargs {} {empty} {} {\bibtfont {Ruby-Homepage}\bibatsep\  \jburluse
+  {ruby_org}\bibbudcsep {}\urldatecomment 15.07.2011} {\bibhowcited} \jbdoitem
+  {} {} {} \bibAnnoteFile {ruby_org}
+
+\bibitem[{empty}%
+         {}%
+         {{0}{}{booklet}{}{}{}{}{}%
+          {}}%
+         {{TIOBE-Index}%
+          {}{}{4}{}{}{}{}{}}%
+        ]{tiobe}
+ \jburldef
+  {tiobe}{http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html}%
+ \jbbibargs {} {empty} {} {\bibtfont {TIOBE-Index}\bibatsep\  \jburluse
+  {tiobe}\bibbudcsep {}\urldatecomment 15.07.2011} {\bibhowcited} \jbdoitem {}
+  {} {} \bibAnnoteFile {tiobe}
+
+\bibitem[{empty}%
+         {}%
+         {{0}{}{booklet}{}{}{}{}{}%
+          {}}%
+         {{TIOBE-Index-Definition}%
+          {}{}{4}{}{}{}{}{}}%
+        ]{tiobe_def}
+ \jburldef
+  {tiobe_def}{http://www.tiobe.com/index.php/content/paperinfo/tpci/tpci_defin%
+ition.htm}%
+ \jbbibargs {} {empty} {} {\bibtfont {TIOBE-Index-Definition}\bibatsep\
+  \jburluse {tiobe_def}\bibbudcsep {}\urldatecomment 15.07.2011} {\bibhowcited}
+  \jbdoitem {} {} {} \bibAnnoteFile {tiobe_def}
+
+\bibitem[{Flanagan\jbbtasep Matsumoto\jbdy {2008}}%
+         {}%
+         {{0}{}{book}{2008}{1}{}{}{}%
+          {O'Reilly Media Inc.\bibbdsep {} 2008}}%
+         {{The Ruby Programming Language}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{ruby_lang}
+ \jbbibargs {\bibnf {Flanagan} {David} {D.} {} {}\Bibbtasep \bibnf {Matsumoto}
+  {Yukihiro} {Y.} {} {}} {David FlanaganYukihiro Matsumoto} {aus} {\bibtfont
+  {The Ruby Programming Language}\bibatsep\ \jbedition
+  {\firstedname~\editionname {}\jbaensep}  \apyformat {O'Reilly Media
+  Inc.\bibbdsep {} \jbssedbd {1}2008}} {\bibhowcited} \jbdoitem
+  {{Flanagan}{David}{D.}{}{}; {Matsumoto}{Yukihiro}{Y.}{}{}} {} {}
+  \bibAnnoteFile {ruby_lang}
+
+\bibitem[{Groh\jbdy {2007}}%
+         {}%
+         {{0}{}{incollection}{2007}{2}{}{}{S.486--507}%
+          {Carl Hanser Verlag\bibbdsep {} 2007}}%
+         {{Ruby}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{ruby}
+ \jbbibargs {\bibnf {Groh} {Jens} {J.} {} {}} {Jens Groh} {au} {\bibapifont
+  {Ruby}\bibatsep\ \incolledformat {}{}{\bibbtfont {Taschenbuch
+  Programmiersprachen}\bibatsep\ }{}{} \jbedition {\secondedname~\editionname
+  {}\jbaensep}  \apyformat {Carl Hanser Verlag\bibbdsep {} \jbssedbd {2}2007}
+  \jbPages{S.486--507}} {\bibhowcited} \jbdoitem {{Groh}{Jens}{J.}{}{}} {} {}
+  \bibAnnoteFile {ruby}
+
+\bibitem[{Thomas\jbbfsasep Flower\jbbstasep Hunt\jbdy {2009}}%
+         {}%
+         {{0}{}{book}{2009}{3}{}{}{}%
+          {Pragmatic Programmers\bibbdsep {} 2009}}%
+         {{Programming Ruby 1.9 - The Pragmatic Programmers' Guide}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{p_ruby}
+ \jbbibargs {\bibnf {Thomas} {Dave} {D.} {} {}\Bibbfsasep \bibnf {Flower}
+  {Chad} {C.} {} {}\Bibbstasep \bibnf {Hunt} {Andy} {A.} {} {}} {Dave
+  ThomasChad FlowerAndy Hunt} {aus} {\bibtfont {Programming Ruby 1.9 - The
+  Pragmatic Programmers' Guide}\bibatsep\ \jbedition {\thirdedname~\editionname
+  {}\jbaensep}  \apyformat {Pragmatic Programmers\bibbdsep {} \jbssedbd
+  {3}2009}} {\bibhowcited} \jbdoitem {{Thomas}{Dave}{D.}{}{};
+  {Flower}{Chad}{C.}{}{}; {Hunt}{Andy}{A.}{}{}} {} {} \bibAnnoteFile {p_ruby}
+
+\end{thebibliography}

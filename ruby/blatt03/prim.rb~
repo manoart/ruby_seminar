@@ -1,0 +1,24 @@
+#prim.rb
+
+#Primfaktorzerlegung aller ganzen Zahlen innerhalb der eingelesenen Grenzen
+#eines Intervalls
+
+low = 0
+high = 0
+
+while low >= high && low <= 1
+  print "Please enter the lower boundry: "
+  low = Integer(gets)
+  print "Please enter the upper boundry: "
+  high = Integer(gets)
+end
+
+#print intervall
+for i in 0..(high-low) do
+  print "#{low + i} = " 
+  puts ""
+end
+
+
+puts interval.length
+puts interval.inspect
